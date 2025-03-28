@@ -1,0 +1,24 @@
+{
+  "fruits": [
+    {
+      "name": "Lemon",
+      "buyingprice": 2,
+      "sellingprice": 5
+    },
+    {
+      "name": "Mango",
+      "buyingprice": 8,
+      "sellingprice": 20
+    },
+    {
+      "name": "Melon",
+      "buyingprice": 180,
+      "sellingprice": 55
+    },
+    {
+      "name": "Watermelon",
+      "buyingprice": 25,
+      "sellingprice": 80
+    }
+  ]
+}
