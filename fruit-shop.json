@@ -12,8 +12,8 @@
     },
     {
       "name": "Melon",
-      "buyingprice": 180,
-      "sellingprice": 55
+      "buyingprice": 55,
+      "sellingprice": 180
     },
     {
       "name": "Watermelon",
