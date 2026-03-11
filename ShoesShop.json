@@ -1,0 +1,24 @@
+{
+  "shoescart": [
+    {
+      "product": "Classic Sneakers",
+      "price": "30",
+      "quantity": "3"
+    },
+    {
+      "product": "Running Sports Shoes",
+      "price": "50",
+      "quantity": "5"
+    },
+    {
+      "product": "Leather Shoes",
+      "price": "70",
+      "quantity": "1"
+    },
+    {
+      "product": "Slip-On Shoes",
+      "price": "40",
+      "quantity": "2"
+    }
+  ]
+}
